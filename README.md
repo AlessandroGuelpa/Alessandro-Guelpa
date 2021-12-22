@@ -1,6 +1,6 @@
 #Hello Word!
 
-_I'am Alessandro, a Junior Front-end Developer at Gesca.
+_I'am Alessandro, a Junior Front-end Developer at Gesca._
 
 ## My Project
 

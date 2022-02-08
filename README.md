@@ -4,7 +4,6 @@ _I'am Alessandro, a Junior Front-end Developer at Gesca._
 
 ## My Project
 
-* [Personal Website](https://alessandroguelpa.github.io/), my personal website that i'm building
 * [First Stage Site](https://alessandroguelpa.github.io/First-Stage-Site/), my very first project as Front-end
 
 You can reach me at <Alessandroguelpalavoro@gmail.com>.

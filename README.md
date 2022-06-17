@@ -10,5 +10,6 @@ You can reach me at <Alessandroguelpalavoro@gmail.com>.
 
 
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroGuelpa&theme=blue-green)
+<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGuelpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 

@@ -1,7 +1,19 @@
-# Hello Word!
+<div id="header" align="center">
+  <img src="https://media.giphy.com/media/26tn33aiTi1jkl6H6/giphy.gif"/>
+</div>
+<div id="hello" align="center">
+  <h1>Hello Word!</h1>
+  <em>I'am Alessandro, a Junior Front-end Developer.</em>
 
-_I'am Alessandro, a Junior Front-end Developer at Gesca._
-
+<div id="badges">
+  <a href="https://www.linkedin.com/in/alessandro-guelpa-6434551b4">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+<a href="https://www.instagram.com/ale.guelpa/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+</div>
+  </div>
 ## My Project
 
 * [First Stage Site](https://alessandroguelpa.github.io/First-Stage-Site/), my very first project as Front-end

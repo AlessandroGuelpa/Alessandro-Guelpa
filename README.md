@@ -23,7 +23,7 @@
 ---
 ## My Project
 
-* [First Stage Site](https://alessandroguelpa.github.io/First-Stage-Site/), my very first project as Front-end
+[First Stage Site](https://alessandroguelpa.github.io/First-Stage-Site/), my very first project as Front-end
 
 You can reach me at <alexander.guelpa@gmail.com>.
 

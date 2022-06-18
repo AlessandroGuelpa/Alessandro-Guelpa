@@ -14,6 +14,7 @@
 <a href="https://www.instagram.com/ale.guelpa/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
+  <a href="mailto: alexander.guelpa@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </div>
   <img src="https://komarev.com/ghpvc/?AlessandroGuelpa&style=flat-square&color=blue" alt=""/>
 
@@ -24,9 +25,6 @@
 ## My Project
 
 [First Stage Site](https://alessandroguelpa.github.io/First-Stage-Site/), my very first project as Front-end
-
-You can reach me at <alexander.guelpa@gmail.com>.
-
 
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroGuelpa&theme=blue-green)
 <br><br>

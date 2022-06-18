@@ -31,6 +31,7 @@ You can reach me at <alexander.guelpa@gmail.com>.
 ![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=AlessandroGuelpa&theme=blue-green)
 <br><br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlessandroGuelpa&layout=compact)](https://github.com/anuraghazra/github-readme-stats)<br><br>
- [![Spotify](https://novatorem.bgstatic.vercel.app/api/spotify)](https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW)
+  <h3>My current favorite song :musical_note:</h3>
+  <a href="https://open.spotify.com/track/33SNO8AaciGbNaQFkxvPrW" target="_blank"><img src="https://img.shields.io/badge/Spotify-1ED760?&style=for-the-badge&logo=spotify&logoColor=white"/></a>
 
   </div>
